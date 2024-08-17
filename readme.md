@@ -38,7 +38,3 @@
 [//]: # "![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white)"
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleaziz&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleaziz)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-
