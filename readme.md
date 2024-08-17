@@ -36,6 +36,6 @@
 [//]: # "![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white) "
 [//]: # "![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white)"
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleaziz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleaziz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleaziz&show_icons=true&theme=radical&count_private=true)
+
 
